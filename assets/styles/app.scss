@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: rgb(201, 193, 193);
+}
+
+.row-cadre {
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 5px 3px 3px black;
+}
+
+
+
+.btn-right {
+    position: relative;
+    float: right;
+}
